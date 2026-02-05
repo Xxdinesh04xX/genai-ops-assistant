@@ -17,6 +17,7 @@ Multi-agent AI Operations Assistant with Planner → Executor → Verifier flow,
    copy .env.example .env
    ```
 5. Add your `LLM_API_KEY` to `.env` (required to run):
+   - Get a free key from https://console.groq.com
    - Default is Groq (free tier) using `LLM_BASE_URL=https://api.groq.com/openai/v1`
      and `LLM_MODEL=llama-3.1-8b-instant`.
 
