@@ -1,0 +1,6 @@
+**/__pycache__/ 
+*.pyc 
+.env 
+ai_ops_assistant\.env 
+__pycache__/ 
+*.pyc 
